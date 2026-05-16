@@ -1,0 +1,20 @@
+{
+  "definition": [
+    "What is {keyword}?",
+    "Define {keyword}.",
+    "Explain the term {keyword}.",
+    "What do you understand by {keyword}?"
+  ],
+  "theory": [
+    "Explain {keyword} in detail.",
+    "Discuss the importance of {keyword}.",
+    "Describe the concept of {keyword}.",
+    "Write a detailed note on {keyword}."
+  ],
+  "application": [
+    "What are the practical applications of {keyword}?",
+    "How is {keyword} used in real-world scenarios?",
+    "Explain a practical use case of {keyword}.",
+    "Discuss the impact of {keyword} on modern systems."
+  ]
+}
